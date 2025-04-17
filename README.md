@@ -11,10 +11,7 @@ Move your mouse across the screen and watch the dots dynamically scatter away fr
 - Dots repel away from the cursor and reset when the cursor is gone
 
 ## 📷 Demo
-
-![mouse-dot-effect demo gif or screenshot here]
-
-> _Optional: Add a link to a live demo if hosted somewhere_
+![Mouse Dot Effect](https://raw.githubusercontent.com/sharky-2/mouse-dot-effect/main/video/video.gif)
 
 ## 🚀 Getting Started
 
